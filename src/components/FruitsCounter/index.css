@@ -1,0 +1,47 @@
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 20px;
+}
+.container {
+  color: black;
+  background-color: white;
+  width: 80%;
+  height: 80vh;
+  padding: 20px;
+
+  margin: 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+.button1 {
+  background-color: #007bff;
+  height: 60px;
+  width: 100px;
+  border-color: none;
+  margin: 10px;
+}
+.button2 {
+  background-color: #007bff;
+  height: 60px;
+  width: 100px;
+  border-color: none;
+  margin: 10px;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
